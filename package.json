@@ -1,7 +1,7 @@
 {
   "name": "barber-jekyll",
   "description": "Barber is a blog theme for Jekyll built by Thomas Vaeth at Samesies using HTML, Sass, and JavaScript.",
-  "demo": "http://barber.samesies.io",
+  "demo": "http://www.illinoisenactus.com/blog/",
   "version": "1.0.0",
   "scripts": {
     "start": "bundle exec jekyll serve",
