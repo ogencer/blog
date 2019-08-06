@@ -20,7 +20,7 @@
     left: 1em;
   }
 
-  background-color: $color-white;
+  background-color: $enactus-gray;
   border-bottom: $border;
 
   @media (min-width: $mq-small) {
@@ -34,7 +34,7 @@
     @extend %font-header;
 
     font-size: $font-xsmall;
-    color: $color-black;
+    color: $enactus-yellow;
   }
 
   &__list {
@@ -55,7 +55,7 @@
       }
 
       a {
-        color: $color-black;
+        color: $enactus-yellow;
       }
     }
   }
