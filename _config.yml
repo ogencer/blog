@@ -82,4 +82,5 @@ exclude:
   - Gemfile.lock
   - gulpfile.js
   - package.json
+  - vendor
   - README.md
